@@ -18,9 +18,9 @@
         },
         { 
             "id": 3,
-            "description": "José Simple ", 
+            "description": "Cartão Alimentação", 
             "type": "income" ,
-            "category": "Alimentação",
+            "category": "Receita",
             "price": 2000,
             "createdAt": "2024-02-29T03:01:51.989Z"
         },
